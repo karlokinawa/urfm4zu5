@@ -1,3 +1,7 @@
-Upload all files in this ZIP to the same folder on your homepage.
-Open index.html in Safari or through your website URL.
-For PWA install, the site should be served over HTTPS.
+FMrosa PWA package
+- Basis: exakt das hochgeladene Uhren-HTML
+- Alle Dateien im Root
+- Eingebettete Bilder in separate WebP-Dateien ausgelagert
+- Lazy Loading nur für nichtkritisches Glint-Asset
+- Service Worker + Manifest + Icons hinzugefügt
+- Original-Uhrenbild zusätzlich als case.webp integriert
